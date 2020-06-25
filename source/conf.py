@@ -21,7 +21,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Living Map Framework'
+project = u'Living Map Documentation'
 copyright = u'2020, Living Map'
 author = u'Living Map'
 
@@ -134,7 +134,7 @@ html_show_sourcelink = False
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LivingMapSDKdoc'
+htmlhelp_basename = 'LivingMapDocumentation'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -161,7 +161,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'LivingMapSDK.tex', u'LivingMapSDK Documentation',
+    (master_doc, 'LivingMapDocumentation.tex', u'Living Map Documentation',
      u'Living Map', 'manual'),
 ]
 
@@ -171,7 +171,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'livingmapsdk', u'LivingMapSDK Documentation',
+    (master_doc, 'livingmapdocs', u'Living Map Documentation',
      [author], 1)
 ]
 
@@ -182,8 +182,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'LivingMapSDK', u'LivingMapSDK Documentation',
-     author, 'LivingMapSDK', 'One line description of project.',
+    (master_doc, 'LivingMapDocs', u'Living Map Documentation',
+     author, 'LivingMap', 'Living Map Documentation',
      'Miscellaneous'),
 ]
 
