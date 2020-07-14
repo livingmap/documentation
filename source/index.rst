@@ -12,7 +12,4 @@ The following SDKs are currently available from Living Map:
 +===========================+=======================+===============================================================+
 | **LivingMapSDK**          | Android, iOS          | `<https://docs.livingmap.com/projects/livingmapsdk/>`_        |
 +---------------------------+-----------------------+---------------------------------------------------------------+
-| **LiveLocationSDK**       | Android, iOS          | `<https://docs.livingmap.com/projects/livelocationsdk/>`_     |
-+---------------------------+-----------------------+---------------------------------------------------------------+
-| **AirlineAccelerator**    | Android, iOS          | `<https://docs.livingmap.com/projects/airlineaccelerator/>`_  |
-+---------------------------+-----------------------+---------------------------------------------------------------+
+
