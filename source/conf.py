@@ -22,7 +22,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Living Map Documentation'
-copyright = u'2020, Living Map'
+copyright = u'2022, Living Map'
 author = u'Living Map'
 
 # The short X.Y version
